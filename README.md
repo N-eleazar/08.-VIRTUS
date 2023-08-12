@@ -1,4 +1,4 @@
-# 08.-VIRTUS-Assistant
+# VIRTUS
 
 Découvrez VIRTUS : Votre Assistant Virtuel Intelligent
 
