@@ -1,4 +1,4 @@
-# 08.-Jarvis-Assistant
+# 08.-VIRTUS-Assistant
 
 Découvrez VIRTUS : Votre Assistant Virtuel Intelligent
 
